@@ -1,0 +1,38 @@
+{
+	"ville": [
+		{
+			"picture": "http://www.hautbourg.fr/images/grapes-of-muscadet.jpg",
+			"url": "http://www.toscanoboston.com/beacon-hill",
+			"name": "Bordeaux",
+			"visite": [
+				{
+					"date": "2016-03-15",
+					"title": "Occasion",
+					"visite": [
+						{
+							"name": "musée d'aquitaine",
+							"tourRating": 7.5
+						},
+						{
+							"name": "centre ville historique ",
+							"tourRating": 5
+						}
+					]
+				},
+				{
+					"date": "2017-10-21",
+					"visite": [
+						{
+							"name": "blabla",
+							"tourRating": 3.5
+						},
+						{
+							"name": "rfzerzer",
+							"tourRating": 7.5
+						}
+					]
+				}
+			]
+		}
+	]
+}
