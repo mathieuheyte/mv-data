@@ -1,6 +1,20 @@
 {
 	"ville": [
 		{
+			"picture": "http://la1ere.francetvinfo.fr/sites/regions_outremer/files/styles/top_big/public/assets/images/2016/09/14/uneagen.jpg?itok=yPD9X9bU",
+			"name": "Agen",
+			"visite": [
+				{
+					"visite": [
+						{
+							"name": "Le Pont Canal",
+							"tourRating": 6
+						}
+					]
+				}
+			]
+		},
+		{
 			"picture": "http://www.hautbourg.fr/images/grapes-of-muscadet.jpg",
 			"url": "http://www.toscanoboston.com/beacon-hill",
 			"name": "Bordeaux",
