@@ -20,6 +20,26 @@
 						{
 							"name": "tiramisu spéculoos",
 							"dishRating": 8.5
+						},
+						{
+							"name": "raclette au nutella",
+							"dishRating": 1
+						},
+						{
+							"dishRating": 0
+						}
+					]
+				},
+				{
+					"date": "2017-10-20",
+					"title": "salut ",
+					"plat": [
+						{
+							"name": "fondu chocolat saucisson",
+							"dishRating": 9
+						},
+						{
+							"dishRating": 0
 						}
 					]
 				}
